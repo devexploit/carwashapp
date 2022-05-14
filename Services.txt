@@ -1,0 +1,5 @@
+19,21,8,31,5
+1,köpükleme,30,15 TL
+2,yıkama,49,10 TL
+3,kurulama,99,5 TL
+4,cilalama,20,50 TL
